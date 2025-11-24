@@ -1,4 +1,4 @@
-## Visualization of Restoration Experiments
+## Causal Mediation Analysis of Layerwise Restoration
 
 Below is a visualization showing the impact of selectively restoring hidden states, attention layers, and MLP layers after injecting corruption into the model.  
 It highlights which token regions are most sensitive to each component during the restoration process.
